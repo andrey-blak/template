@@ -1,0 +1,15 @@
+.gradle
+.DS_Store
+build/
+
+# generated files
+gen/
+
+# IDEA files
+.idea/
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+default.properties
+build.properties
